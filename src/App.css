@@ -2,3 +2,57 @@
   margin: 0;
   padding: 0;
 }
+
+#root {
+  display: flex;
+  margin: 20px auto 0 auto;
+  width: 900px;
+}
+
+.icon {
+  cursor: pointer;
+}
+
+.shop-card {
+
+}
+
+.card-title {
+
+}
+
+.card-color {
+
+}
+
+.card-price-button {
+
+}
+
+.card-price {
+
+}
+
+.card-button {
+
+}
+
+.shop-item {
+
+}
+
+.item-title {
+
+}
+
+.item-color {
+
+}
+
+.item-price {
+
+}
+
+.item-button {
+  
+}

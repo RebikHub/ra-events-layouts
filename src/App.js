@@ -4,10 +4,8 @@ import Store from './components/Store';
 import products from './Products'
 
 
-function App() {
+export default function App() {
     return (
-    <Store products={products} />
+        <Store products={products} />
     );
 }
-
-export default App;
