@@ -3,7 +3,7 @@ import ShopItem from './ShopItem'
 
 export default function ListView({items}) {
   return (
-    <div className='cards-view'>
+    <div className='items'>
     {items.map((el, i) => <ShopItem name={el.name} 
                                price={el.price} 
                                color={el.color} 

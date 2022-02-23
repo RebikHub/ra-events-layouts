@@ -3,7 +3,7 @@ import ShopCard from './ShopCard';
 
 export default function CardsView({cards}) {
   return (
-    <div className='cards-view'>
+    <div className='cards'>
       {cards.map((el, i) => <ShopCard name={el.name} 
                                  price={el.price} 
                                  color={el.color} 

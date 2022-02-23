@@ -4,7 +4,6 @@ import Iconswitch from './IconSwitch'
 import ListView from './ListView';
 
 export default function Store({products}) {
-  console.log(products);
   const [state, setState] = useState('view_list');
   function setView(view) {
     if (view === 'view_list') {
