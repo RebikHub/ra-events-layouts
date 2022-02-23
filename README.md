@@ -1,4 +1,6 @@
 
+[![Build status](https://ci.appveyor.com/api/projects/status/5lxldmwssg46xm3h/branch/master?svg=true)](https://ci.appveyor.com/project/RebikHub/ra-events-layouts/branch/master)
+
 [Расположение товаров](https://rebikhub.github.io/ra-events-layouts/)
 
 ===
